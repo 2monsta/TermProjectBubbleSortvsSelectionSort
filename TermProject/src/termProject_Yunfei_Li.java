@@ -9,9 +9,10 @@ import java.util.Date;
 //Assignment: Term Project
 //Class: CS5070
 //Date: July 2nd 2017
+
+
+
 public class termProject_Yunfei_Li {
-
-
     //==========================================
     //              Bubble Sort
     //==========================================
@@ -168,23 +169,23 @@ public class termProject_Yunfei_Li {
     // the method takes no arguments because the question says asking the user for inputs and iterations
     // however, i did run the test 9 times and the results will be on the excel file
     public static void bubbleSortTesting(){
-
+        //1
         System.out.println(bubbleSortRunningTime());
-
+        //2
         System.out.println(bubbleSortRunningTime());
-
+        //3
         System.out.println(bubbleSortRunningTime());
-
+        //4
         System.out.println(bubbleSortRunningTime());
-
+        //5
         System.out.println(bubbleSortRunningTime());
-
+        //6
         System.out.println(bubbleSortRunningTime());
-
+        //7
         System.out.println(bubbleSortRunningTime());
-
+        //8
         System.out.println(bubbleSortRunningTime());
-
+        //9
         System.out.println(bubbleSortRunningTime());
     }
 
